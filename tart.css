@@ -8,13 +8,12 @@ body{
   justify-content: center;
   align-items: flex;
   position:flex;
-  max-width: 300%;
+  max-width: 50%;
   overflow: hidden;
 }
 
 .container img{
-  width: 1000%;
-  height: 1000%;
+  width: 500%;
   filter: brightness(0.5);
 }
 
